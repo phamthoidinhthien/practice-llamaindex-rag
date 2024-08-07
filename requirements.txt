@@ -1,0 +1,17 @@
+requests
+bs4
+tqdm
+llama-index==0.10.53
+llama_index_core
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+llama-index-llms-anthropic
+llama-index-embeddings-voyageai
+llama_index-vector_stores-qdrant
+llama-index-readers-file
+google-generativeai
+openai
+anthropic
+python-dotenv
+qdrant_client
+ragas
